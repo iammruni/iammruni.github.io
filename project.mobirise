@@ -35,7 +35,9 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 19,
-    "versionPublish": "4.8.1"
+    "versionPublish": "4.8.1",
+    "favicon": "@PROJECT_PATH@/assets/images/ms-youtube-branding-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
