@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "iammruni - GitHub",
-    "currentPage": "index.html",
+    "currentPage": "404.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -797,10 +797,10 @@
         }
       ]
     },
-    "error.html": {
+    "404.html": {
       "settings": {
         "meta_descr": "",
-        "title": "Error 404",
+        "title": "Error 404 - Not Found",
         "order": 1
       },
       "components": [
